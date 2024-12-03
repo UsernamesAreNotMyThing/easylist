@@ -27,6 +27,7 @@
 ||t.ly/js/sweetalert.min.js
 ||wikimedia.org/w/index.php?title=Special:BannerLoader
 ||www.glassdoor.*/static/js/gd-user-hardsell-overlay.bundle.js
+||cdn.pendo.engineeringvillage.com/*/pendo.js
 ! ---------- Scroll To Top Buttons ----------
 ||breedingmoms.com/js/top.js
 ||dailypioneer.com/images/top.png
